@@ -1,5 +1,5 @@
 ## Oi, sou o Alan
-Especialisa de Business Intelligence na [Desktop Sigmanet](https://www.desktop.com.br/)
+Especialista de Business Intelligence na [Desktop Sigmanet](https://www.desktop.com.br/)
 
 - Atualmente focado em:
 
