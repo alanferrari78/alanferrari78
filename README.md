@@ -1,15 +1,23 @@
 ## Oi, sou o Alan
 Especialisa de Business Intelligence na [Desktop Sigmanet](https://www.desktop.com.br/)
 
-- Especialisa de Business Intelligence na [Desktop Sigmanet](https://www.desktop.com.br/)
 - Atualmente focado em:
 
-<img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" /> <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" /> 
+<div diplay ="inline">
+  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" /> 
+  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" /> 
+  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> 
+  <img height="42" width="42" src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" /> 
+  <img height="42" width="42" src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" /> 
+</div>
 
-<img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> 
 
-<img height="42" width="42" src="[https://icons8.com.br/icon/qYfwpsRXEcpc/power-bi](https://icons8.com.br/icon/qYfwpsRXEcpc/power-bi)" /> 
 
+***Você também me encontra em:***
+
+<a href="https://www.linkedin.com/in/alan-ferrari-1978-cps/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+</a>
 
 <!--
 **alanferrari78/alanferrari78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
