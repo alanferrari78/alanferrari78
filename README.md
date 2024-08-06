@@ -15,9 +15,16 @@ Especialista de Business Intelligence na [Desktop Sigmanet](https://www.desktop.
 
 ***Você também me encontra em:***
 
+<div diplay ="inline">
 <a href="https://www.linkedin.com/in/alan-ferrari-1978-cps/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+  <img  height="35" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+<a href="https://www.salesforce.com/trailblazer/aferrari19">
+  <img height="35" src="https://astreait.com/images/Trailhead.png" /> 
 </a>
+</div>
+
+
+
 
 <!--
 **alanferrari78/alanferrari78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
